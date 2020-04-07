@@ -1,6 +1,5 @@
 body {
-	background-image: repeating-linear-gradient(rgba(0, 0, 0, 0.98), rgba(0, 0, 0, 0.98)),
-		url(snezhnyj_bars-bakenbardy.jpg);
+	background-image: repeating-linear-gradient(rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.90)), url(img009.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -86,7 +85,7 @@ body {
 
 	#fly-in {
 		font-size: 4em;
-		margin: 40vh auto;		
+		margin: 40vh auto;
 	}
 	#fly-in div {
 		margin: auto;
@@ -101,7 +100,6 @@ body {
 	#fly-in {
 		font-size: 2em;
 		margin: 40vh auto;
-		
 	}
 	#fly-in div {
 		margin: auto;

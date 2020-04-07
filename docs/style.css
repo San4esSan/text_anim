@@ -1,5 +1,5 @@
 body {
-	background-image: repeating-linear-gradient(rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.90)), url(img009.jpg);
+	background-image: repeating-linear-gradient(rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.95)), url(img009.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
